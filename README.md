@@ -5,6 +5,15 @@ Simple python script to combine multiple tab- or comma-separated files into an e
 * Python (doesn't matter which version)
 * [Pandas](https://pandas.pydata.org/)
 * [Xlsxwriter Engine](http://xlsxwriter.readthedocs.io/)
+    ```bash
+    pip install pandas
+    pip install xlsxwriter
+    ```
+    or
+    ```bash
+    conda install pandas
+    condas install xlsxwriter
+    ```
 
 ## How to use:
 1. With list of files written in a text file:
